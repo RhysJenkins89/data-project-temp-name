@@ -14,3 +14,10 @@ We'll use a basic Git branching strategy to work on the project. I'll review Dav
 
 I haven't thought much about technologies yet. We should probably write the frontend in React. Let's not reinvent the wheel.  
 
+In order to get David setup, we'll likely need to go through the following items: 
+
+- A GitHub account
+- Git
+- A way to clone the repo. SSH, I'd imagine. 
+- VS Code
+- 
