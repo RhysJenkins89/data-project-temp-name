@@ -23,3 +23,4 @@ In order to get David setup, we'll likely need to go through the following items
 - Go through some basic Git and terminal commands. I think David is on Windows, but that shouldn't be a problem. 
 - It'll be useful to write about the project as well. I'll setup something on my site.
 - David's first update.
+- Now this is the second one.
